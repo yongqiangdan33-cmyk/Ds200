@@ -6,7 +6,7 @@
 
 GitHub Pages 当前运行本地演示模式：记录保存在各自浏览器，尚不互通。云端登录、两人成员绑定、私有照片接口、版本冲突处理及清理任务的代码已经加入，但尚未部署到真实云环境，不能将本地测试当作线上权限验收。
 
-正式接入步骤见 [CloudBase 部署指南](docs/cloud-deployment.md)。前端可以继续使用现有 GitHub Pages 地址，无需另购前端域名。账号注册、实名认证、套餐选择和支付由用户自行完成。私人照片不要上传到公开 GitHub 仓库。
+正式接入步骤见 [CloudBase 部署指南](https://github.com/yongqiangdan33-cmyk/Ds200/blob/main/云端接通指南.md)。前端可以继续使用现有 GitHub Pages 地址，无需另购前端域名。账号注册、实名认证、套餐选择和支付由用户自行完成。私人照片不要上传到公开 GitHub 仓库。
 
 ## 本地运行
 
